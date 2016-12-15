@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
     <style>
         #mapid {
-            height: 180px;
+            height: 700px;
         }
     </style>
 </head>
@@ -20,14 +20,24 @@
 
     <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
     <script type="text/javascript">
-        var mymap = L.map('mapid').setView([51.505, -0.09], 13);
-        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar'}).addTo(mymap);
-//        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-//            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-//            maxZoom: 18,
-//            id: 'your.mapbox.project.id',
-//            accessToken: 'your.mapbox.public.access.token'
-//        }).addTo(mymap);
+        var mymap = L.map('mapid').setView([10, -130], 3),
+            missionsArry = [[15.7226391, -91.356092], [46.5995513, -114.5321826], [37.5652894, -233.1505341], [-32.5959334, -58.027972], [-34.1593915, -70.7737186], [-21.2136875, -47.9582173], [17.1629862, -97.3313154], [20.6739383, -103.4054534]];
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
+            foo: 'bar'
+        }).addTo(mymap);
+
+
+        missionsArry.forEach(function (item) {
+            L.marker(item).addTo(mymap);
+        });
+
+
+        //        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+        //            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+        //            maxZoom: 18,
+        //            id: 'your.mapbox.project.id',
+        //            accessToken: 'your.mapbox.public.access.token'
+        //        }).addTo(mymap);
     </script>
 </body>
 

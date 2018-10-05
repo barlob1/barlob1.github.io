@@ -17,14 +17,18 @@
     <h2>Missionary Map</h2>
     <p>For a while, I've wanted to create a map for my family that serves to remind us where we've been and the good that we've done. This is where I'm starting.</p>
     <div id="mapid"></div>
+    <div id="israelMapId"></div>
 
     <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
     <script type="text/javascript">
         var mymap = L.map('mapid').setView([10, -130], 3),
+            israelMap = L.map('israelMapId').setView([10, -130], 3),
             missionsArry = [[15.7226391, -91.356092], [46.5995513, -114.5321826], [37.5652894, -233.1505341], [-32.5959334, -58.027972], [-34.1593915, -70.7737186], [-21.2136875, -47.9582173], [17.1629862, -97.3313154], [20.6739383, -103.4054534]];
         L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
             foo: 'bar'
-        }).addTo(mymap);
+        }).addTo(mymap, israelMap);
+
+
 
 
         missionsArry.forEach(function (item) {

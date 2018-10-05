@@ -1,0 +1,425 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -77.281698, 42.887535 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Canandaigua,+NY+14424&ftid=0x89d124c905668793:0xa7106fec3b31ae69",
+      "Location" : {
+        "Latitude" : "42.887535",
+        "Longitude" : "-77.281698"
+      },
+      "Published" : "2018-10-02T03:11:31Z",
+      "Title" : "Canandaigua, New York 14424",
+      "Updated" : "2018-10-02T03:11:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.504870, 42.997698 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mendon,+NY&ftid=0x89d136e52c87b6db:0x426f0f6f2478a909",
+      "Location" : {
+        "Latitude" : "42.997698",
+        "Longitude" : "-77.504870"
+      },
+      "Published" : "2018-10-02T03:11:19Z",
+      "Title" : "Mendon, New York",
+      "Updated" : "2018-10-02T03:11:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.361499, 41.628937 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Kirtland,+OH+44094&ftid=0x8831a7fdda38dbef:0x2073bc7c44eda289",
+      "Location" : {
+        "Latitude" : "41.628937",
+        "Longitude" : "-81.361499"
+      },
+      "Published" : "2018-10-02T03:10:56Z",
+      "Title" : "Kirtland, Ohio 44094",
+      "Updated" : "2018-10-02T03:10:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.143710, 41.312555 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Hiram,+OH&ftid=0x88316b3cd54ff591:0x17c23268f64e0a80",
+      "Location" : {
+        "Latitude" : "41.312555",
+        "Longitude" : "-81.143710"
+      },
+      "Published" : "2018-10-02T03:10:45Z",
+      "Title" : "Hiram, Ohio",
+      "Updated" : "2018-10-02T03:10:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.345941, 41.239223 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Streetsboro,+OH&ftid=0x883122d41ee675c3:0xed3a0e20e695e1a0",
+      "Location" : {
+        "Latitude" : "41.239223",
+        "Longitude" : "-81.345941"
+      },
+      "Published" : "2018-10-02T03:10:34Z",
+      "Title" : "Streetsboro, Ohio",
+      "Updated" : "2018-10-02T03:10:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -93.976888, 39.278622 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Richmond,+MO+64085&ftid=0x87c19dbf8becb31f:0xdd6bb83ec08435ba",
+      "Location" : {
+        "Latitude" : "39.278622",
+        "Longitude" : "-93.976888"
+      },
+      "Published" : "2018-10-02T03:10:21Z",
+      "Title" : "Richmond, Missouri 64085",
+      "Updated" : "2018-10-02T03:10:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -94.131610, 39.671116 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Far+West,+Mirabile+Township,+MO+64649&ftid=0x87c1c3e7e340dbb9:0x8f3be9b156cde978",
+      "Location" : {
+        "Latitude" : "39.671116",
+        "Longitude" : "-94.131610"
+      },
+      "Published" : "2018-10-02T03:09:59Z",
+      "Title" : "Far West, Mirabile Township, MO 64649",
+      "Updated" : "2018-10-02T03:09:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -93.450476, 41.569437 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Des+Moines+River,+Iowa&ftid=0x87ee9beda23ae057:0x1390daeaf89a6c66",
+      "Location" : {
+        "Latitude" : "41.569437",
+        "Longitude" : "-93.450476"
+      },
+      "Published" : "2018-10-02T03:09:44Z",
+      "Title" : "Des Moines River, Iowa",
+      "Updated" : "2018-10-02T03:09:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -91.409873, 39.935602 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Quincy,+IL&ftid=0x87ddf79cd32e3b37:0x5f65b820ccb464be",
+      "Location" : {
+        "Latitude" : "39.935602",
+        "Longitude" : "-91.409873"
+      },
+      "Published" : "2018-10-02T03:09:30Z",
+      "Title" : "Quincy, Illinois",
+      "Updated" : "2018-10-02T03:09:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -91.384875, 40.550042 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Nauvoo,+IL+62354&ftid=0x87e725e18ec151b7:0xe0d27f4f85c36049",
+      "Location" : {
+        "Latitude" : "40.550042",
+        "Longitude" : "-91.384875"
+      },
+      "Published" : "2018-10-02T03:09:12Z",
+      "Title" : "Nauvoo, Illinois 62354",
+      "Updated" : "2018-10-02T03:09:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -95.860833, 41.261944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Council+Bluffs,+IA&ftid=0x879381cfa109322f:0xbe4e81fa5222799e",
+      "Location" : {
+        "Latitude" : "41.261944",
+        "Longitude" : "-95.860833"
+      },
+      "Published" : "2018-10-02T03:08:51Z",
+      "Title" : "Council Bluffs, Iowa",
+      "Updated" : "2018-10-02T03:08:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -95.9611249, 41.3355526 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12338856571362042005",
+      "Location" : {
+        "Address" : "Omaha, NE 68112, United States",
+        "Business Name" : "Winter Quarters Historical Marker",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.3355526",
+          "Longitude" : "-95.9611249"
+        }
+      },
+      "Published" : "2018-10-02T03:08:37Z",
+      "Title" : "Winter Quarters Historical Marker",
+      "Updated" : "2018-10-02T03:08:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -111.891047, 40.760779 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Salt+Lake+City,+UT&ftid=0x87523d9488d131ed:0x5b53b7a0484d31ca",
+      "Location" : {
+        "Latitude" : "40.760779",
+        "Longitude" : "-111.891047"
+      },
+      "Published" : "2018-10-02T03:08:07Z",
+      "Title" : "Salt Lake City, Utah",
+      "Updated" : "2018-10-02T03:08:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -111.880771, 40.889389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bountiful,+UT+84010&ftid=0x875257b087b1235f:0x4f1f8431cf23913",
+      "Location" : {
+        "Latitude" : "40.889389",
+        "Longitude" : "-111.880771"
+      },
+      "Published" : "2018-10-02T03:07:33Z",
+      "Title" : "Bountiful, Utah 84010",
+      "Updated" : "2018-10-02T03:07:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.126616, 41.614653 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bear+River+City,+UT&ftid=0x87549df3b16471a5:0x747d7ed31cea47e7",
+      "Location" : {
+        "Latitude" : "41.614653",
+        "Longitude" : "-112.126616"
+      },
+      "Published" : "2018-10-02T03:07:24Z",
+      "Title" : "Bear River City, Utah",
+      "Updated" : "2018-10-02T03:07:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.290780, 37.957702 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Stockton,+CA&ftid=0x80900d737b442181:0x5876f5d1044fcbd8",
+      "Location" : {
+        "Latitude" : "37.957702",
+        "Longitude" : "-121.290780"
+      },
+      "Published" : "2018-10-02T03:07:08Z",
+      "Title" : "Stockton, California",
+      "Updated" : "2018-10-02T03:07:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -111.658534, 40.233844 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Provo,+UT&ftid=0x874d9271930bf1bf:0x1d90f12600b556ef",
+      "Location" : {
+        "Latitude" : "40.233844",
+        "Longitude" : "-111.658534"
+      },
+      "Published" : "2018-10-02T03:06:48Z",
+      "Title" : "Provo, Utah",
+      "Updated" : "2018-10-02T03:06:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -114.742041, 44.068202 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Idaho&ftid=0x5358ffa885e499e9:0xd06b300515f78758",
+      "Location" : {
+        "Latitude" : "44.068202",
+        "Longitude" : "-114.742041"
+      },
+      "Published" : "2018-10-02T03:06:38Z",
+      "Title" : "Idaho",
+      "Updated" : "2018-10-02T03:06:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -107.290284, 43.075968 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Wyoming&ftid=0x875ee23448e12e69:0x26b02279d27d382f",
+      "Location" : {
+        "Latitude" : "43.075968",
+        "Longitude" : "-107.290284"
+      },
+      "Published" : "2018-10-02T03:06:28Z",
+      "Title" : "Wyoming",
+      "Updated" : "2018-10-02T03:06:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -93.630114, 40.826966 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mormon+Trail+Rd,+Garden+Grove,+IA+50103&ftid=0x87e966848a00deaf:0xfbdd5ae9227027eb",
+      "Location" : {
+        "Latitude" : "40.826966",
+        "Longitude" : "-93.630114"
+      },
+      "Published" : "2018-10-02T03:06:16Z",
+      "Title" : "Mormon Trail Rd, Garden Grove, IA 50103",
+      "Updated" : "2018-10-02T03:06:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -95.121636, 39.563052 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Atchison,+KS&ftid=0x87bf8b3f5eee3b71:0x188eea2cdc3d3917",
+      "Location" : {
+        "Latitude" : "39.563052",
+        "Longitude" : "-95.121636"
+      },
+      "Published" : "2018-10-02T03:06:04Z",
+      "Title" : "Atchison, Kansas",
+      "Updated" : "2018-10-02T03:06:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -90.199404, 38.627003 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=St.+Louis,+MO&ftid=0x87d8b4a9faed8ef9:0xbe39eaca22bbe05b",
+      "Location" : {
+        "Latitude" : "38.627003",
+        "Longitude" : "-90.199404"
+      },
+      "Published" : "2018-10-02T03:05:50Z",
+      "Title" : "St. Louis, Missouri",
+      "Updated" : "2018-10-02T03:05:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -90.578748, 41.509477 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rock+Island,+IL&ftid=0x87e232c357044b77:0xecc19371d71475f1",
+      "Location" : {
+        "Latitude" : "41.509477",
+        "Longitude" : "-90.578748"
+      },
+      "Published" : "2018-10-02T03:05:42Z",
+      "Title" : "Rock Island, Illinois",
+      "Updated" : "2018-10-02T03:05:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -74.005973, 40.712775 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=New+York,+NY&ftid=0x89c24fa5d33f083b:0xc80b8f06e177fe62",
+      "Location" : {
+        "Latitude" : "40.712775",
+        "Longitude" : "-74.005973"
+      },
+      "Published" : "2018-10-02T03:05:34Z",
+      "Title" : "New York",
+      "Updated" : "2018-10-02T03:05:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.991573, 53.408371 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Liverpool,+UK&ftid=0x487adf8a647060b7:0x42dc046f3f176e01",
+      "Location" : {
+        "Latitude" : "53.408371",
+        "Longitude" : "-2.991573"
+      },
+      "Published" : "2018-10-02T03:05:18Z",
+      "Title" : "Liverpool, United Kingdom",
+      "Updated" : "2018-10-02T03:05:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.922433, 42.099654 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Granville,+MA&ftid=0x89e71084a7a8cc25:0xdeb24a476a8b4cae",
+      "Location" : {
+        "Latitude" : "42.099654",
+        "Longitude" : "-72.922433"
+      },
+      "Published" : "2018-09-30T15:40:13Z",
+      "Title" : "Granville, Massachusetts",
+      "Updated" : "2018-09-30T15:40:13Z"
+    },
+    "type" : "Feature"
+  } ]
+}
